@@ -1,0 +1,12 @@
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\bin\Release\net5.0\Engine.deps.json
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\bin\Release\net5.0\Engine.dll
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\bin\Release\net5.0\ref\Engine.dll
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\bin\Release\net5.0\Engine.pdb
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\obj\Release\net5.0\Engine.csprojAssemblyReference.cache
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\obj\Release\net5.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\obj\Release\net5.0\Engine.AssemblyInfoInputs.cache
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\obj\Release\net5.0\Engine.AssemblyInfo.cs
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\obj\Release\net5.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\obj\Release\net5.0\Engine.dll
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\obj\Release\net5.0\ref\Engine.dll
+C:\Users\HI\Documents\C#\RPG Game\SuperAdventure\Engine\obj\Release\net5.0\Engine.pdb
